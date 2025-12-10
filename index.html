@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India Records Directory</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="main-wrapper">
+    <header class="app-header">
+        <div class="menu-container">
+        <button id="menu-btn" class="menu-icon">☰</button>
+        
+        <div id="dropdown-menu" class="dropdown-content">
+            <a href="https://forms.gle/f43pCNqGzQQDS5KT9" target="_blank" class="menu-item">➕ Suggest a Place</a>
+            <a href="#" id="about-link" class="menu-item">ℹ️ About Us</a>
+            </div>
+    </div>
+        <h1 id="site-title">India's Records & Monuments</h1>
+        <p id="site-tagline">Discover the Incredible Landmarks of Incredible India</p>
+    </header>
+
+    <div class="filter-bar">
+        <input type="text" id="search-input" placeholder="Search places..." class="search-input">
+        
+        <button class="filter-btn active" id="all-btn">All India</button>
+        <button class="filter-btn" id="kerala-btn">Kerala Pride</button>
+        <select class="state-dropdown" id="state-dropdown">
+            <option value="">Select State</option>
+        </select>
+    </div>
+
+    <div class="content-container">
+        <div class="places-grid" id="places-grid">
+            </div>
+
+        <div class="no-results" id="no-results" style="display: none;">
+            <div class="no-results-icon">🔍</div>
+            <div class="no-results-text">No monuments found. Try a different search.</div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header" id="modal-header">
+                <button class="modal-close" id="modal-close" aria-label="Close modal">×</button>
+                <span id="modal-emoji"></span>
+            </div>
+            
+            <div class="modal-body">
+                <h2 class="modal-title" id="modal-title"></h2>
+                <span class="modal-record" id="modal-record"></span>
+                <div class="modal-state" id="modal-state"></div>
+                <p class="modal-description" id="modal-description"></p>
+                
+                <div class="visitor-info-section">
+                    <h3 class="visitor-info-title">📅 Visitor Information</h3>
+                    <p class="visitor-info-text" id="modal-visitor-info"></p>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="btn-map" class="action-btn map-btn">📍 View on Google Maps</button>
+                    <button id="btn-share" class="action-btn share-btn">💬 Share on WhatsApp</button>
+                    <button id="btn-copy" class="action-btn copy-btn">🔗 Copy Link</button>
+                </div>
+
+                <div class="modal-tags" id="modal-tags"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<button id="back-to-top" title="Go to top">↑</button>
+<script src="data.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

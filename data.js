@@ -246,7 +246,7 @@ const placesData = [
         recordType: "Asia's Tallest Church Tower",
         state: "Kerala",
         description: "Standing at 260 feet (79 meters), this tower at the Puthenpally Church in Thrissur is widely recognized as the tallest church tower in Asia. It offers a 360-degree view of the city.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bible_Tower_Thrissur.jpg/640px-Bible_Tower_Thrissur.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bible_Tower_Thrissur3.JPG",
         visitorInfo: "Open daily. There is a lift to take you to the top observation deck.",
         tags: ["Tallest", "Architecture", "Thrissur"]
     },
@@ -256,7 +256,7 @@ const placesData = [
         recordType: "Kerala's Largest Fort",
         state: "Kerala",
         description: "Spanning 40 acres, this massive keyhole-shaped fort is the largest in Kerala. Unlike other forts, it was built purely for defense with no palace inside, offering stunning sea views.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bekal_Fort_Kasaragod.jpg/640px-Bekal_Fort_Kasaragod.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bakel_Fort_Beach_Kasaragod7.jpg",
         visitorInfo: "Located in Kasaragod. Famous filming location for the movie 'Bombay'.",
         tags: ["Largest", "History", "Kasaragod"]
     },
@@ -266,7 +266,7 @@ const placesData = [
         recordType: "Only Neolithic Stone Age Writings",
         state: "Kerala",
         description: "These are not technically caves but a massive cleft in the rock. They contain the only known Stone Age carvings in South India, dating back to 6,000 BC.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Edakkal_Caves_Wayanad.jpg/640px-Edakkal_Caves_Wayanad.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Edakkal_Caves.jpg",
         visitorInfo: "Requires a steep trek. Located in Wayanad. Closed on Mondays.",
         tags: ["Oldest", "History", "Wayanad"]
     },
@@ -276,7 +276,7 @@ const placesData = [
         recordType: "Tallest Peak in South India",
         state: "Kerala",
         description: "Standing at a massive 2,695 meters (8,842 ft), Anamudi is the highest point in India outside the Himalayas. It is known as the 'Everest of South India'.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Anamudi_Peak_Munnar.jpg/640px-Anamudi_Peak_Munnar.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/c1/AnaimudiPeak_DSC_4834.jpg",
         visitorInfo: "Located in Eravikulam National Park, Munnar. Trekking to the summit is currently restricted for conservation.",
         tags: ["Tallest", "Nature", "Munnar"]
     },
@@ -286,7 +286,7 @@ const placesData = [
         recordType: "Tallest Gangadhareshwara Statue",
         state: "Kerala",
         description: "This stunning 58-foot-tall concrete statue of Lord Shiva stands right on the edge of a cliff facing the Arabian Sea. It is the tallest sculpture of Shiva in the 'Gangadhareshwara' form in India.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Azhimala_Shiva_Statue.jpg/640px-Azhimala_Shiva_Statue.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aazhimala_Shiva_sculpture_2.jpg",
         visitorInfo: "Located near Kovalam. Best time to visit is sunset for a dramatic view of the ocean.",
         tags: ["Tallest", "Monument", "Trivandrum"]
     },
@@ -296,7 +296,7 @@ const placesData = [
         recordType: "World's Oldest Teak Plantation",
         state: "Kerala",
         description: "Established in 1846, this is officially the oldest teak plantation in the world. It features a massive hanging bridge that visitors must cross to enter the forest.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Conollys_Plot_Nilambur.jpg/640px-Conollys_Plot_Nilambur.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/37/Conolly_Plot_1.jpg",
         visitorInfo: "Located in Nilambur. Famous for the giant 'Kannimari' teak tree.",
         tags: ["Oldest", "Nature", "Malappuram"]
     },
@@ -306,7 +306,7 @@ const placesData = [
         recordType: "South India's First 6-Lane Tunnel",
         state: "Kerala",
         description: "A modern engineering marvel, this is Kerala's first twin-tube tunnel. It cuts through the granite rocks of the Western Ghats, reducing a dangerous mountain climb to a smooth 1-minute drive.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kuthiran_Tunnel_Entrance.jpg/640px-Kuthiran_Tunnel_Entrance.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Kuthiran_tunnel_entry_to_thrissur_01.jpg",
         visitorInfo: "Located on the Thrissur-Palakkad Highway. It is a vital trade link.",
         tags: ["First", "Engineering", "Thrissur"]
     },
@@ -316,7 +316,7 @@ const placesData = [
         recordType: "Only Cliff on the Arabian Sea",
         state: "Kerala",
         description: "Designated as a National Geological Monument, this is the only place in southern Kerala where cliffs are found adjacent to the Arabian Sea. The rock formations are millions of years old.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Varkala_Cliff_Beach.jpg/640px-Varkala_Cliff_Beach.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/4/47/Varkala_beach_-_cliff_view.JPG",
         visitorInfo: "Famous for paragliding and sunset views. Located in Thiruvananthapuram district.",
         tags: ["Unique", "Nature", "Varkala"]
     }, 
@@ -326,7 +326,7 @@ const placesData = [
         recordType: "World's Highest Tea Plantation",
         state: "Kerala",
         description: "Situated at 7,900 feet above sea level, this is officially the highest tea plantation in the world. The tea grown here has a special flavor because of the high altitude.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kolukkumalai_Tea_Estate.jpg/640px-Kolukkumalai_Tea_Estate.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/9/90/Kolukkumalai.jpg",
         visitorInfo: "Located near Munnar. Accessible only by Jeep safari. Best for sunrise.",
         tags: ["World Record", "Nature", "Munnar"]
     },
@@ -336,7 +336,7 @@ const placesData = [
         recordType: "World's Largest Living Teak Tree",
         state: "Kerala",
         description: "Located in the Parambikulam Tiger Reserve, this giant tree is over 450 years old and has a massive girth of 6.4 meters. It is worshipped by local tribes as a holy tree.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kannimara_Teak.jpg/640px-Kannimara_Teak.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/20/Kannimara_Teak_in_Parambikulam_Tiger_Reserve_on_13-01-2011_P1120605.jpg",
         visitorInfo: "Located in Palakkad. Awards: Mahavriksha Puraskar by the Govt of India.",
         tags: ["World Record", "Nature", "Palakkad"]
     },
@@ -346,7 +346,7 @@ const placesData = [
         recordType: "Kerala's Tallest Lighthouse",
         state: "Kerala",
         description: "Standing at 46 meters (150 feet), this is the actual tallest lighthouse in Kerala (taller than Thangassery). It guides ships entering the busy Kochi port.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Puthuvype_Lighthouse.jpg/640px-Puthuvype_Lighthouse.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Vypin_Lighthouse_IMG20230722124823.jpg",
         visitorInfo: "Located on Vypeen Island, Kochi. Open to visitors from 3 PM to 5 PM.",
         tags: ["Tallest", "Engineering", "Kochi"]
     },
@@ -356,7 +356,7 @@ const placesData = [
         recordType: "Largest Mural Painting in Kerala",
         state: "Kerala",
         description: "This palace houses the 'Gajendra Moksham', which measures 14 feet by 11 feet. It is the largest single band of mural painting discovered in Kerala.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Krishnapuram_Palace.jpg/640px-Krishnapuram_Palace.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6d/KRISHNA_PURAM_PALACE%2CKAYAMKULAM%2CKERALA.jpg",
         visitorInfo: "Located in Kayamkulam (Alappuzha). A masterpiece of Kerala architecture.",
         tags: ["Largest", "Art", "Alappuzha"]
     },
@@ -366,7 +366,7 @@ const placesData = [
         recordType: "India's Only Uninhabited River Island Cluster",
         state: "Kerala",
         description: "A protected river delta on the Kabini River, comprising a cluster of uninhabited islets. It is unique because it has no permanent human residents, only rare birds and flora.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kuruva_Island_Wayanad.jpg/640px-Kuruva_Island_Wayanad.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/32/Kuruvadweep_.jpg",
         visitorInfo: "Located in Wayanad. Entry is restricted to bamboo rafts only.",
         tags: ["Unique", "Nature", "Wayanad"]
     },
@@ -376,7 +376,7 @@ const placesData = [
         recordType: "India's Lowest Altitude Point",
         state: "Kerala",
         description: "Kuttanad is one of the few places in the world where farming is done 1.2 to 3.0 meters **below sea level**. It is officially the lowest point in India.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kuttanad_Paddy_Fields.jpg/640px-Kuttanad_Paddy_Fields.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/81/Kerala_Kuttanad1.jpg",
         visitorInfo: "Famous for houseboat cruises. Best time: August to March.",
         tags: ["India Record", "Nature", "Alappuzha"]
     },
@@ -386,7 +386,7 @@ const placesData = [
         recordType: "World's Highest Cricket Ground",
         state: "Himachal Pradesh",
         description: "Built in 1893 by the Maharaja of Patiala, this cricket ground sits at an altitude of 2,444 meters (8,018 ft). It is the highest cricket ground in the world.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chail_Cricket_Ground.jpg/640px-Chail_Cricket_Ground.jpg",
+        imageUrl: "https://scontent.ftrv3-1.fna.fbcdn.net/v/t39.30808-6/490176038_1210473721078678_7429386525384111579_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=E2dCUBpk-tQQ7kNvwGpR-b8&_nc_oc=Adn6pspOfgyFL6Qji-mu2k2UM1QPqQO3yQYp9KHV6NarkfgTKT9_MDDpQIsdHamvwYc&_nc_zt=23&_nc_ht=scontent.ftrv3-1.fna&_nc_gid=aS0nQiGX4qKnt55Rj0wqtA&oh=00_AflkIVn23yqf3uEZR28UQG3P4wu-Yk73OcP-g9ggT_M-Rw&oe=69406631",
         visitorInfo: "Located 45km from Shimla. It is now part of the Chail Military School but tourists can view it.",
         tags: ["World Record", "Sports", "Himalayas"]
     },
@@ -396,7 +396,7 @@ const placesData = [
         recordType: "World's Largest Monolithic Structure",
         state: "Maharashtra",
         description: "This massive temple was not built up from the ground, but carved *down* from a single mountain rock. It is the largest monolithic rock excavation in the world, removing 200,000 tonnes of rock.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kailasa_temple_Ellora_caves.jpg/640px-Kailasa_temple_Ellora_caves.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/ce/TOP_VIEW_OF_KAILASH_TEMPLE_ELLORA.jpg",
         visitorInfo: "Located in Aurangabad. It is Cave 16 of the Ellora Caves. Closed on Tuesdays.",
         tags: ["World Record", "History", "Architecture"]
     },
@@ -406,7 +406,7 @@ const placesData = [
         recordType: "World's Highest Gateway",
         state: "Uttar Pradesh",
         description: "The 'Door of Victory' was built by Emperor Akbar in 1602. Standing at 54 meters (177 ft), it is recognized as the highest gateway in the world.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Buland_Darwaza_Fatehpur_Sikri.jpg/640px-Buland_Darwaza_Fatehpur_Sikri.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/03/Buland_Darwaza%2C_Fatehpur_Sikri.jpg",
         visitorInfo: "Located in Fatehpur Sikri, near Agra. Best time to visit is sunrise or sunset.",
         tags: ["World Record", "History", "Mughal"]
     },
@@ -416,7 +416,7 @@ const placesData = [
         recordType: "World's Longest Temple Corridor",
         state: "Tamil Nadu",
         description: "The corridor of this temple in Rameswaram is the longest in the world, stretching 197 meters East-West and 133 meters North-South. It has over 1,200 carved granite pillars.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rameswaram_Temple_Corridor.jpg/640px-Rameswaram_Temple_Corridor.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ramanathaswamy_Temple_corridor_01.jpg",
         visitorInfo: "Located in Rameswaram island. One of the Char Dham pilgrimage sites.",
         tags: ["World Record", "Architecture", "Spiritual"]
     },
@@ -426,7 +426,7 @@ const placesData = [
         recordType: "India's Tallest Dam",
         state: "Uttarakhand",
         description: "Standing at a staggering 260.5 meters (855 ft), Tehri Dam is the tallest dam in India and one of the highest in the world. It holds back the massive Bhagirathi River.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tehri_Dam_Uttarakhand.jpg/640px-Tehri_Dam_Uttarakhand.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/03/Tehri_Dam_India.jpg",
         visitorInfo: "Located in New Tehri. Adventure sports like jet skiing are available in the reservoir.",
         tags: ["Tallest", "Engineering", "Himalayas"]
     },
@@ -436,7 +436,7 @@ const placesData = [
         recordType: "World's Second Largest Dome",
         state: "Karnataka",
         description: "This mausoleum features a massive dome that stands without any pillar support. It is famous for its 'Whispering Gallery' where even a pin drop can be heard 37 meters away.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gol_Gumbaz_Bijapur.jpg/640px-Gol_Gumbaz_Bijapur.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/08/Gol_Gumbaz_-4%2C_Bijapur%2C_Karnataka.jpg",
         visitorInfo: "Located in Vijayapura (Bijapur). Open 6 AM - 6 PM.",
         tags: ["Largest", "Acoustics", "History"]
     },
@@ -446,7 +446,7 @@ const placesData = [
         recordType: "Wettest Place on Earth",
         state: "Meghalaya",
         description: "Recognized by Guinness World Records, Mawsynram receives the highest average annual rainfall on the planet (approx 11,872 mm). The unique stalagmite caves here are formed by the constant rain.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mawsynram_Cave.jpg/640px-Mawsynram_Cave.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/1/19/Mawsynram.jpg",
         visitorInfo: "Best time: Sept-Nov (Just after monsoon). Avoid peak monsoon (June-Aug) as travel is dangerous.",
         tags: ["World Record", "Nature", "North East"]
     },
@@ -456,7 +456,7 @@ const placesData = [
         recordType: "World's Longest Highway Tunnel (>10k ft)",
         state: "Himachal Pradesh",
         description: "At 9.02 km long, this engineering marvel is the longest highway tunnel in the world located above 10,000 feet. It connects Manali to Lahaul-Spiti Valley all year round.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Atal_Tunnel_North_Portal.jpg/640px-Atal_Tunnel_North_Portal.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/88/Atal_Tunnel_01.jpg",
         visitorInfo: "Located near Manali. A permit is sometimes required for vehicles.",
         tags: ["World Record", "Engineering", "Himalayas"]
     },
@@ -466,7 +466,7 @@ const placesData = [
         recordType: "World's Largest Film Studio Complex",
         state: "Telangana",
         description: "Certified by Guinness World Records, this film city covers 1,666 acres. It is larger than Hollywood's major studios and can handle 20 film productions simultaneously.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ramoji_Film_City_Entrance.jpg/640px-Ramoji_Film_City_Entrance.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ramoji_Film_City%2C_Hyderabad_-_views_from_Ramoji_Film_City_%2892%29.JPG",
         visitorInfo: "Located in Hyderabad. Requires a full day to explore. Ticketed entry.",
         tags: ["World Record", "Movies", "Hyderabad"]
     },
@@ -476,7 +476,7 @@ const placesData = [
         recordType: "World's Widest Tree Canopy",
         state: "West Bengal",
         description: "Located in the Acharya Jagadish Chandra Bose Indian Botanic Garden, this single tree is over 250 years old and looks like a forest. Its canopy covers 3.5 acres.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Great_Banyan_Tree.jpg/640px-Great_Banyan_Tree.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6c/TheGreatBanyanTree_November_2021.jpg",
         visitorInfo: "Located in Howrah, Kolkata. The main trunk was removed in 1925, but the tree lives on!",
         tags: ["World Record", "Nature", "Kolkata"]
     },
@@ -486,7 +486,7 @@ const placesData = [
         recordType: "World's Only Floating National Park",
         state: "Manipur",
         description: "This park floats on Loktak Lake. It is made of 'Phumdis' (decomposing floating biomass) and is the only home of the Sangai (dancing deer).",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Loktak_Lake_Manipur.jpg/640px-Loktak_Lake_Manipur.jpg",
+        imageUrl: "https://vajiramandravi.com/current-affairs/wp-content/uploads/2025/03/keibul_lamjao_national_park.jpg.webp",
         visitorInfo: "Best time: Oct-Apr. Boating through the floating grass is a unique experience.",
         tags: ["World Record", "Nature", "North East"]
     },
@@ -496,7 +496,7 @@ const placesData = [
         recordType: "India's Longest River Bridge",
         state: "Assam",
         description: "Spanning 9.15 km over the Lohit River, the Bhupen Hazarika Setu is the longest bridge in India over water. It connects Assam and Arunachal Pradesh.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dhola_Sadiya_Bridge.jpg/640px-Dhola_Sadiya_Bridge.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Dhaula-Sadiya_Bridge.jpg",
         visitorInfo: "Vital for military and civilians. Offers stunning views of the Brahmaputra river system.",
         tags: ["Longest", "Engineering", "Assam"]
     },
@@ -506,7 +506,7 @@ const placesData = [
         recordType: "World's Tallest Shiva Statue",
         state: "Rajasthan",
         description: "Standing at 369 feet (112 meters), 'Vishwas Swaroopam' in Nathdwara is the tallest statue of Lord Shiva in the world. It is visible from 20km away.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Statue_of_Belief_Nathdwara.jpg/640px-Statue_of_Belief_Nathdwara.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/70/Statue_of_Belief.jpg",
         visitorInfo: "Located in Nathdwara. Features a glass viewing deck at 280 feet.",
         tags: ["World Record", "Statue", "Rajasthan"]
     },

@@ -516,7 +516,7 @@ const placesData = [
         recordType: "Largest Private Residence in India",
         state: "Gujarat",
         description: "Four times the size of Buckingham Palace, this is one of the largest private dwellings built. It features modern amenities like elevators (in 1890!) and a golf course.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Laxmi_Vilas_Palace_Vadodara.jpg/640px-Laxmi_Vilas_Palace_Vadodara.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/bd/LakshmiVilas_Palace.jpg",
         visitorInfo: "Located in Vadodara. Audio guided tours are available for tourists.",
         tags: ["Largest", "Palace", "Architecture"]
     },
@@ -526,7 +526,7 @@ const placesData = [
         recordType: "India's Highest Waterfall",
         state: "Karnataka",
         description: "Cascading from a height of 455 meters (1,493 ft), Kunchikal is the highest waterfall in India. It is formed by the Varahi River cutting through the Western Ghats.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kunchikal_Falls.jpg/640px-Kunchikal_Falls.jpg",
+        imageUrl: "https://blogs.tripzygo.in/wp-content/uploads/2025/02/kunchikal-waterfalls-1536x1024.jpg",
         visitorInfo: "Located in Shimoga district. Access is restricted due to a hydroelectric plant; requires permission.",
         tags: ["Highest", "Nature", "Karnataka"]
     },
@@ -536,7 +536,7 @@ const placesData = [
         recordType: "World's Largest Functioning Hindu Temple",
         state: "Tamil Nadu",
         description: "Covering 156 acres, this temple complex in Srirangam is often cited as the largest functioning Hindu temple in the world. It has 21 massive towers (Gopurams).",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Srirangam_Temple_Tower.jpg/640px-Srirangam_Temple_Tower.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/79/Sri_Ranganathaswami_Temple%2C_Srirangaptna.jpg",
         visitorInfo: "Located in Tiruchirappalli. The Rajagopuram (main tower) is 239 ft tall.",
         tags: ["Largest", "Spiritual", "Architecture"]
     },
@@ -546,7 +546,7 @@ const placesData = [
         recordType: "World's Largest Mangrove Forest",
         state: "West Bengal",
         description: "A UNESCO World Heritage site, this massive delta is the largest mangrove forest in the world and the only mangrove inhabited by tigers.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sundarbans_Boat.jpg/640px-Sundarbans_Boat.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sundarbans_river.jpg",
         visitorInfo: "Accessible only by boat. Best time: Sept-Mar for tiger spotting.",
         tags: ["World Record", "Nature", "Tiger"]
     },
@@ -556,7 +556,7 @@ const placesData = [
         recordType: "World's Only Basaltic Impact Crater",
         state: "Maharashtra",
         description: "Created by a meteor impact 50,000 years ago, this is the only hyper-velocity impact crater in basalt rock on Earth. The water is both saline and alkaline.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lonar_Lake_Maharashtra.jpg/640px-Lonar_Lake_Maharashtra.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lonar_Sarovar_lake_Maharastra.jpg",
         visitorInfo: "Located in Buldhana district. The lake turns pink sometimes due to algae.",
         tags: ["World Record", "Space", "Nature"]
     },
@@ -566,7 +566,7 @@ const placesData = [
         recordType: "India's Largest Fort",
         state: "Rajasthan",
         description: "Spanning 700 acres, this UNESCO World Heritage site is the largest fort in India. It famously had 84 water bodies, of which 22 survive today.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chittorgarh_Fort_Aerial.jpg/640px-Chittorgarh_Fort_Aerial.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chittorgarh_fort_skyline_view.jpg",
         visitorInfo: "Best explored by hiring an auto or bike inside the fort due to its size.",
         tags: ["Largest", "History", "Rajasthan"]
     },
@@ -576,7 +576,7 @@ const placesData = [
         recordType: "World's First Residential University",
         state: "Bihar",
         description: "Founded in 427 CE, Nalanda was the first residential university in the world, hosting over 10,000 students and 2,000 teachers from across Asia before it was destroyed.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nalanda_Ruins.jpg/640px-Nalanda_Ruins.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/b3/A_view_of_Nalanda_University.jpg",
         visitorInfo: "A UNESCO World Heritage site. Located near Patna.",
         tags: ["First", "History", "Education"]
     },
@@ -586,7 +586,7 @@ const placesData = [
         recordType: "South Asia's Only Active Volcano",
         state: "Andaman & Nicobar",
         description: "Located in the Andaman Sea, this is the only confirmed active volcano in South Asia. It last erupted in 2017.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Barren_Island_Volcano.jpg/640px-Barren_Island_Volcano.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Barren_Island_Active_Volcano.jpg",
         visitorInfo: "Visitors cannot land on the island. Can be viewed from a ship/ferry.",
         tags: ["Unique", "Nature", "Volcano"]
     },
@@ -596,7 +596,7 @@ const placesData = [
         recordType: "India's Largest Monastery",
         state: "Arunachal Pradesh",
         description: "This is the largest monastery in India and the second largest in the world (after Lhasa). It sits on a mountain ridge at 10,000 feet.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tawang_Monastery.jpg/640px-Tawang_Monastery.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Tawang_Monastery.jpg",
         visitorInfo: "Requires an Inner Line Permit (ILP) to visit Arunachal Pradesh.",
         tags: ["Largest", "Spiritual", "Himalayas"]
     },
@@ -606,7 +606,7 @@ const placesData = [
         recordType: "World's Largest Salt Desert",
         state: "Gujarat",
         description: "A vast expanse of white salt that stretches as far as the eye can see. During monsoon, it is submerged; in winter, it becomes a solid white desert.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rann_of_Kutch_White_Desert.jpg/640px-Rann_of_Kutch_White_Desert.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/0/01/White_salt_desert_at_Rann_of_Kutch.jpg",
         visitorInfo: "Famous for the Rann Utsav (Nov-Feb). Best seen on Full Moon nights.",
         tags: ["World Record", "Nature", "White Desert"]
     },
@@ -616,7 +616,7 @@ const placesData = [
         recordType: "Second Longest Caves in India",
         state: "Andhra Pradesh",
         description: "Stretching 3.2 km, these underground caves are famous for their unique stalactite formations. It is the longest cave system open to the public in India.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Belum_Caves_Inside.jpg/640px-Belum_Caves_Inside.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/29/Belum_Caves_061.JPG",
         visitorInfo: "Located in Kurnool. The 'Patalaganga' is an underground stream found here.",
         tags: ["Longest", "Nature", "Adventure"]
     },
@@ -626,7 +626,7 @@ const placesData = [
         recordType: "India's First Open Sea Bridge",
         state: "Maharashtra",
         description: "An engineering marvel that spans the Arabian Sea, connecting Bandra and Worli. Its cable-stayed towers are as high as a 40-story building.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bandra_Worli_Sea_Link_Night.jpg/640px-Bandra_Worli_Sea_Link_Night.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bandra_Worli_Sea-Link.jpg",
         visitorInfo: "Toll road. Best viewed from the Bandra Fort viewpoint.",
         tags: ["First", "Engineering", "Mumbai"]
     },
@@ -636,7 +636,7 @@ const placesData = [
         recordType: "Most Visited Religious Building (2001 Record)",
         state: "Delhi",
         description: "Shaped like a lotus flower with 27 free-standing marble petals, this Bahá'í House of Worship has won numerous architectural awards and attracts more visitors than the Taj Mahal.",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lotus_Temple_Delhi.jpg/640px-Lotus_Temple_Delhi.jpg",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/85/Lotus_Temple%2C_located_in_Delhi%2C_India%2C_is_a_Bah%C3%A1%27%C3%AD_House_of_Worship.jpg",
         visitorInfo: "Open to all religions for silent prayer. Closed on Mondays.",
         tags: ["Famous", "Architecture", "Delhi"]
     }
